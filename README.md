@@ -1,63 +1,36 @@
-# ej2-vue-grids
+# How to Get Started with the Syncfusion Vue Grid
 
-The Grid component is used to display and manipulate tabular data with configuration options to control the way the data is presented and manipulated. It will pull data from a data source, such as array of JSON objects, `OData web services`, or [`DataManager`](http://ej2.syncfusion.com/vue/documentation/data/?utm_source=npm&utm_campaign=grid) binding data fields to columns. Also displaying a column header to identify the field with support for grouped records.
+A quick start project that helps you to create and bind data to the Syncfusion Vue Grid. You will also learn how to customize tablular data and enable few of its important features like paging, sorting, filtering and grouping.
+
+Documentation: https://ej2.syncfusion.com/vue/documentation/grid/getting-started/
+
+Online example: https://ej2.syncfusion.com/vue/demos/#/material/grid/grid-overview.html 
 
 ![Grid](https://ej2.syncfusion.com/products/grid/readme.gif)
 
-> This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of Syncfusion's EULA (https://www.syncfusion.com/eula/es/). To acquire a license, you can purchase one at https://www.syncfusion.com/sales/products or start a free 30-day trial here (https://www.syncfusion.com/account/manage-trials/start-trials).
+## Project pre-requisites
+Make sure that you have the compatible versions of Node and Vue-Cli in your machine before starting to work on this project.
 
-> A free community license (https://www.syncfusion.com/products/communitylicense) is also available for companies and individuals whose organizations have less than $1 million USD in annual gross revenue and five or fewer developers.
+## How to run this application?
+To run this application, you need to first clone the `getting-started-with-vue-data-grid-of-syncfusion` repository and then navigate to its appropriate path where it has been located in your system.
 
-## Setup
-To install Vue cli package
-```
-npm install -g @vue/cli
-```
+To do so, open the command prompt and run the below commands one after the other.
 
-To create a project
 ```
-vue create <project-name>
+git clone https://github.com/SyncfusionExamples/getting-started-with-vue-data-grid-of-syncfusion grid-example
+cd grid-example
 ```
 
-To install Grid and its dependent packages, use the following command
+## Installing
+Once done with downloading, next you need to install the necessary packages required to run this application locally. The `npm install` command will install all the needed Vue packages into your current project and to do so, run the below command.
 
-```sh
-npm install @syncfusion/ej2-vue-grids
+```
+npm install
 ```
 
-To compile and hot-reloads for development
-```
-npm run serve
-```
+## Running on development server
+Run `npm run serve` command for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
 
-To compile and minifies for production
-```
-npm run build
-```
+## Further help
 
-To check Lints and fixes files
-```
-npm run lint
-```
-
-To Customize configuration for Vue Cli.
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-## Resources
-
-* [Getting Started](https://ej2.syncfusion.com/vue/documentation/grid/getting-started.html?utm_source=npm&utm_campaign=grid)
-* [View Online Demos](https://ej2.syncfusion.com/vue/demos/?utm_source=npm&utm_campaign=grid/#/material/grid/)
-
-## Support
-
-Product support is available for through following mediums.
-
-* Creating incident in Syncfusion [Direct-trac](https://www.syncfusion.com/support/directtrac/incidents?utm_source=npm&utm_campaign=grid) support system or [Community forum](https://www.syncfusion.com/forums?utm_source=npm&utm_campaign=grid).
-* New [GitHub issue](https://github.com/syncfusion/ej2-vue-ui-components/issues/new).
-* Ask your query in Stack Overflow with tag `syncfusion`, `ej2`.
-
-## License
-
-Check the license detail [here](https://github.com/syncfusion/ej2-vue-ui-components/blob/master/license).
-
-&copy; Copyright 2019 Syncfusion, Inc. All Rights Reserved. The Syncfusion Essential Studio license and copyright applies to this distribution.
+To get more help on the vue CLI use go check out the [Vue-Cli README](https://github.com/vuejs/vue-cli/blob/master/README.md).
