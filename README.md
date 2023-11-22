@@ -35,7 +35,7 @@ To get more help on the vue CLI use go check out the [Vue-Cli README](https://gi
 
 ### Skeleton loading indicator
 
-The [Data Grid](https://www.syncfusion.com/vue-components/vue-grid) shows the Shimmer effect as a loading indicator while fetching data and binding it to the grid during initial rendering, refreshing, or after performing grid actions like sorting, filtering, grouping, and more. The Data Grid offers two types of loading indicator effect, spinner and shimmer.
+The [Data Grid](https://www.syncfusion.com/vue-components/vue-grid?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples) shows the Shimmer effect as a loading indicator while fetching data and binding it to the grid during initial rendering, refreshing, or after performing grid actions like sorting, filtering, grouping, and more. The Data Grid offers two types of loading indicator effect, spinner and shimmer.
 
 ### Column
 
@@ -70,7 +70,7 @@ Filtering helps view particular or related records in the Data Grid, which meet 
 
 ## About Syncfusion Vue Components
 
-Syncfusion's [Vue Components](https://www.syncfusion.com/vue-components?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Data Grid, we provide popular Vue Components such as [Button](https://www.syncfusion.com/vue-components/vue-button?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples), [Charts](https://www.syncfusion.com/vue-components/vue-charts?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples), [Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples), [Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples), and [Word Processor](https://www.syncfusion.com/vue-components/vue-word-processor?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples).
+Syncfusion's [Vue Components](https://www.syncfusion.com/vue-components?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Data Grid, we provide popular Vue Components such as [Charts](https://www.syncfusion.com/vue-components/vue-charts?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples), [Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples), [Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples), and [Word Processor](https://www.syncfusion.com/vue-components/vue-word-processor?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples).
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
