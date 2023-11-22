@@ -1,10 +1,6 @@
 # How to Get Started with the Syncfusion Vue Grid
 
-The [Vue Grid](https://www.syncfusion.com/vue-components/vue-grid?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples), is a feature-rich control for displaying data in a tabular format. Its wide range of functionalities includes data binding, editing, Excel-like filtering, custom sorting, grouping, row reordering, freezing rows and columns, exporting to Excel, CSV and PDF formats, aggregating rows and more. A quick start project that helps you to create and bind data to the Syncfusion Vue Grid. You will also learn how to customize tablular data and enable few of its important features like paging, sorting, filtering and grouping.
-
-Documentation: https://ej2.syncfusion.com/vue/documentation/grid/getting-started
-
-Online example: https://ej2.syncfusion.com/vue/demos/#/material/grid/grid-overview.html 
+The [Vue Grid](https://www.syncfusion.com/vue-components/vue-grid?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples) is a feature-rich control for displaying data in a tabular format. A quick start project that helps you to create and bind data to the Syncfusion Vue Grid. You will also learn how to customize tablular data and enable few of its important features like paging, sorting, filtering and grouping.
 
 ![Grid](https://ej2.syncfusion.com/products/grid/readme.gif)
 
@@ -39,7 +35,7 @@ To get more help on the vue CLI use go check out the [Vue-Cli README](https://gi
 
 ### Skeleton loading indicator
 
-The Data Grid shows the Shimmer effect as a loading indicator while fetching data and binding it to the grid during initial rendering, refreshing, or after performing grid actions like sorting, filtering, grouping, and more. The Data Grid offers two types of loading indicator effect, spinner and shimmer.
+The [Data Grid](https://www.syncfusion.com/vue-components/vue-grid) shows the Shimmer effect as a loading indicator while fetching data and binding it to the grid during initial rendering, refreshing, or after performing grid actions like sorting, filtering, grouping, and more. The Data Grid offers two types of loading indicator effect, spinner and shimmer.
 
 ### Column
 
@@ -56,7 +52,7 @@ Filtering helps view particular or related records in the Data Grid, which meet 
 ## Related links
 [Learn More about Vue Data Grid](https://www.syncfusion.com/vue-components/vue-grid?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/vue/confirm?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
 
@@ -68,7 +64,7 @@ Filtering helps view particular or related records in the Data Grid, which meet 
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
 
-[Online example](https://ej2.syncfusion.com/vue/demos/#/bootstrap5/grid/grid-overview.html?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
+[Online example](https://ej2.syncfusion.com/vue/demos/#/bootstrap5/grid/default.html?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
 
 [Knowledge base](https://support.syncfusion.com/kb/article/10034/how-to-get-started-easily-with-an-example-of-syncfusion-vue-data-grid-datatable?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
 
