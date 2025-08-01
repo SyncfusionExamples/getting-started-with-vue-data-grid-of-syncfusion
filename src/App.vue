@@ -11,25 +11,29 @@
 </template>
 
 <script>
-import Vue from 'vue';
-import { GridPlugin, Page, Sort, Filter, Group } from '@syncfusion/ej2-vue-grids';
-Vue.use(GridPlugin);
+import { GridComponent, ColumnsDirective, ColumnDirective, Page, Sort, Filter, Group } from '@syncfusion/ej2-vue-grids';
 
 export default {
-  data () {
+  components: {
+    'ejs-grid': GridComponent,
+    'e-columns': ColumnsDirective,
+    'e-column': ColumnDirective
+  },
+  data() {
     return {
-       data: [
-          { OrderID: 10248, CustomerID: 'VINET', Price: 32.38 },
-          { OrderID: 10250, CustomerID: 'HANAR', Price: 65.83 },
-          { OrderID: 10251, CustomerID: 'VICTE', Price: 41.34 },
-          { OrderID: 10252, CustomerID: 'SUPRD', Price: 51.3 },
-          { OrderID: 10253, CustomerID: 'HANAR', Price: 58.17 },
-          { OrderID: 10254, CustomerID: 'CHOPS', Price: 22.98 },
-          { OrderID: 10255, CustomerID: 'RICSU', Price: 148.33 },
-          { OrderID: 10256, CustomerID: 'WELLI', Price: 13.97 },
-          { OrderID: 10249, CustomerID: 'TOMSP', Price: 11.61 },],
-       pageSettings: { pageSize: 5 }
-    }
+      data: [
+        { OrderID: 10248, CustomerID: 'VINET', Price: 32.38 },
+        { OrderID: 10250, CustomerID: 'HANAR', Price: 65.83 },
+        { OrderID: 10251, CustomerID: 'VICTE', Price: 41.34 },
+        { OrderID: 10252, CustomerID: 'SUPRD', Price: 51.3 },
+        { OrderID: 10253, CustomerID: 'HANAR', Price: 58.17 },
+        { OrderID: 10254, CustomerID: 'CHOPS', Price: 22.98 },
+        { OrderID: 10255, CustomerID: 'RICSU', Price: 148.33 },
+        { OrderID: 10256, CustomerID: 'WELLI', Price: 13.97 },
+        { OrderID: 10249, CustomerID: 'TOMSP', Price: 11.61 },
+      ],
+      pageSettings: { pageSize: 5 }
+    };
   },
   provide: {
     grid: [Page, Sort, Filter, Group]
@@ -38,5 +42,5 @@ export default {
 </script>
 
 <style>
-  @import url("https://cdn.syncfusion.com/ej2/material.css");
+@import url("https://cdn.syncfusion.com/ej2/material.css");
 </style>
