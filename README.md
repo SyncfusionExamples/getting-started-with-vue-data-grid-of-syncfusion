@@ -1,6 +1,6 @@
-## How to Get Started with the Syncfusion Vue Grid
+# How to Get Started with the Syncfusion Vue Grid
 
-### Repository Description
+## Repository Description
 
 This repository provides a concise and practical starter example that demonstrates how to use the Syncfusion Vue Grid component to display and manage tabular data in a Vue.js application.
 
