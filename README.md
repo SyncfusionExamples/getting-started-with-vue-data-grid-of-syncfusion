@@ -1,36 +1,55 @@
-# How to Get Started with the Syncfusion Vue Grid
+## How to Get Started with the Syncfusion Vue Grid
 
-A quick start project that helps you to create and bind data to the Syncfusion Vue Grid. You will also learn how to customize tablular data and enable few of its important features like paging, sorting, filtering and grouping.
+### Repository Description
 
-Documentation: https://ej2.syncfusion.com/vue/documentation/grid/getting-started/
+This repository provides a concise and practical starter example that demonstrates how to use the Syncfusion Vue Grid component to display and manage tabular data in a Vue.js application.
 
-Online example: https://ej2.syncfusion.com/vue/demos/#/material/grid/grid-overview.html 
+## Project Overview
 
-![Grid](https://ej2.syncfusion.com/products/grid/readme.gif)
+This project is designed to help developers quickly understand the basics of integrating the Syncfusion Vue Grid into a Vue application. It focuses on binding data to the grid and configuring commonly used features that are essential for building data‑driven user interfaces. The sample highlights how the grid behaves in a real application setup using Vue CLI and a local development server.
 
-## Project pre-requisites
-Make sure that you have the compatible versions of Node and Vue-Cli in your machine before starting to work on this project.
+## Features
 
-## How to run this application?
-To run this application, you need to first clone the `getting-started-with-vue-data-grid-of-syncfusion` repository and then navigate to its appropriate path where it has been located in your system.
+The starter application demonstrates the following core grid functionalities:
+- Paging to manage large datasets efficiently
+- Sorting to organize data columns
+- Filtering to narrow down displayed records
+- Grouping to categorize data logically
 
-To do so, open the command prompt and run the below commands one after the other.
+## Prerequisites
 
-```
+Before running this project, ensure the following tools are installed on your system:
+- A compatible version of Node.js
+- Vue CLI for creating and serving Vue applications
+
+## Running the Application
+
+1. Clone the repository:
+```cmd
 git clone https://github.com/SyncfusionExamples/getting-started-with-vue-data-grid-of-syncfusion grid-example
+```
+
+2. Navigate to the project folder:
+
+```cmd
 cd grid-example
 ```
 
-## Installing
-Once done with downloading, next you need to install the necessary packages required to run this application locally. The `npm install` command will install all the needed Vue packages into your current project and to do so, run the below command.
+3. Install dependencies:
 
-```
+```cmd
 npm install
 ```
 
-## Running on development server
-Run `npm run serve` command for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
+3. Start the development server:
 
-## Further help
+```cmd
+npm run serve
+```
 
-To get more help on the vue CLI use go check out the [Vue-Cli README](https://github.com/vuejs/vue-cli/blob/master/README.md).
+Once the server is running, open http://localhost:8080/ in your browser. The application supports live reloading when source files are updated.
+
+## Examples
+
+https://ej2.syncfusion.com/vue/documentation/grid/getting-started/
+https://ej2.syncfusion.com/vue/demos/#/material/grid/grid-overview.html
