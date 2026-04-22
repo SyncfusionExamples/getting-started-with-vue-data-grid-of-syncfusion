@@ -1,5 +1,7 @@
 # How to Get Started with the Syncfusion Vue Grid
 
+## Project Description
+
 A quick start project that helps you to create and bind data to the Syncfusion Vue Grid. You will also learn how to customize tablular data and enable few of its important features like paging, sorting, filtering and grouping.
 
 Documentation: https://ej2.syncfusion.com/vue/documentation/grid/getting-started/
