@@ -2,7 +2,7 @@
 
 ## Repository Description
 
-This repository provides a concise and practical starter example that demonstrates how to use the Syncfusion Vue Grid component to display and manage tabular data in a Vue.js application.
+This repository provides a concise and practical starter example that demonstrates how to use the Syncfusion [Vue Grid](https://www.syncfusion.com/vue-components/vue-grid?utm_source=github&utm_medium=listing&utm_campaign=vue-datagrid-github-samples) component to display and manage tabular data in a Vue.js application.
 
 ## Project Overview
 
@@ -11,10 +11,10 @@ This project is designed to help developers quickly understand the basics of int
 ## Features
 
 The starter application demonstrates the following core grid functionalities:
-- Paging to manage large datasets efficiently
-- Sorting to organize data columns
-- Filtering to narrow down displayed records
-- Grouping to categorize data logically
+- [Paging](https://ej2.syncfusion.com/vue/documentation/grid/paging?utm_source=github&utm_medium=listing&utm_campaign=vue-datagrid-github-samples) to manage large datasets efficiently
+- [Sorting](https://ej2.syncfusion.com/vue/documentation/grid/sorting?utm_source=github&utm_medium=listing&utm_campaign=vue-datagrid-github-samples) to organize data columns
+- [Filtering](https://ej2.syncfusion.com/vue/documentation/grid/filtering/filtering?utm_source=github&utm_medium=listing&utm_campaign=vue-datagrid-github-samples) to narrow down displayed records
+- [Grouping](https://ej2.syncfusion.com/vue/documentation/grid/grouping/grouping?utm_source=github&utm_medium=listing&utm_campaign=vue-datagrid-github-samples) to categorize data logically
 
 ## Prerequisites
 
@@ -51,5 +51,5 @@ Once the server is running, open http://localhost:8080/ in your browser. The app
 
 ## Examples
 
-https://ej2.syncfusion.com/vue/documentation/grid/getting-started/
-https://ej2.syncfusion.com/vue/demos/#/material/grid/grid-overview.html
+https://ej2.syncfusion.com/vue/documentation/grid/getting-started
+https://ej2.syncfusion.com/vue/demos/#/bootstrap5/grid/grid-overview.html
