@@ -51,5 +51,5 @@ Once the server is running, open http://localhost:8080/ in your browser. The app
 
 ## Examples
 
-https://ej2.syncfusion.com/vue/documentation/grid/getting-started
-https://ej2.syncfusion.com/vue/demos/#/bootstrap5/grid/grid-overview.html
+https://ej2.syncfusion.com/vue/documentation/grid/getting-started?utm_source=github&utm_medium=listing&utm_campaign=vue-datagrid-github-samples
+https://ej2.syncfusion.com/vue/demos/?utm_source=github&utm_medium=listing&utm_campaign=vue-datagrid-github-samples#/bootstrap5/grid/grid-overview.html
